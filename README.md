@@ -22,6 +22,8 @@ Estoy entusiasmada por unirme a un equipo que valore la excelencia técnica y la
 - 💻 Habilidades Técnicas: CSS, HTML, JavaScript, Firebase, Node.js, GitHub y más.
 - 🤝 Habilidades Interpersonales: Comunicación efectiva, trabajo en equipo, liderazgo y atención al detalle.
 
+¡Estoy lista para dar el siguiente paso en mi carrera profesional! Conéctate conmigo para explorar oportunidades de colaboración o proyectos emocionantes en el desarrollo web. ¡Espero con entusiasmo el próximo desafío! ✨
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maria-ximena-cortes-melo-274459185/) 
 
@@ -39,5 +41,3 @@ Estoy entusiasmada por unirme a un equipo que valore la excelencia técnica y la
 [![](https://visitcount.itsvg.in/api?id=mariacortesm&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-¡Estoy lista para dar el siguiente paso en mi carrera profesional! Conéctate conmigo para explorar oportunidades de colaboración o proyectos emocionantes en el desarrollo web. ¡Espero con entusiasmo el próximo desafío! ✨
