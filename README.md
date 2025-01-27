@@ -6,6 +6,8 @@
 Soy Ximena, una apasionada desarrolladora web con un camino sólido en la creación de experiencias digitales. Mi viaje en el desarrollo web comenzó con proyectos desafiantes que me permitieron adquirir una base en tecnologías como CSS, HTML y JavaScript.
 
 #### Experiencia significativa
+- **Hansbiomed:** Desarrollé y mantuve una página web utilizando un CMS, optimizando la UX-UI y aplicando estrategias de ventas, lo que incrementó las ventas y registros. Trabajé con herramientas de marketing digital y tecnologías web como CSS y HTML.
+- **Vortex:** Colaboré en el diseño y la mejora de la experiencia de usuario para un proyecto web, enfocándome en pruebas de usabilidad y desarrollo. Mejoré la interfaz y la navegación para hacerla más intuitiva, usando tecnologías como Tailwind, Figma y React. Esto contribuyó a facilitar el registro y la navegación, optimizando la accesibilidad para los usuarios.
 - **Laboratoria:** Me sumergí en proyectos como Text Analyzer, Data Lovers, Social Network y MdLinks. Estos desafíos me permitieron perfeccionar mis habilidades en manipulación del DOM, API's, Firebase y Node.js, y me enseñaron la importancia del trabajo colaborativo en entornos ágiles.
 - **ITA Editorial:** Mi tiempo como editora me brindó una perspectiva única sobre la importancia del detalle, la corrección de estilo y la gestión de proyectos, habilidades que valoro y aplico en mi trabajo actual.
 - **Colombia Diversa:** Durante mi pasantía, aprendí a redactar de manera efectiva, a dinamizar contenido en la web y a gestionar interacciones en redes sociales, habilidades que complementan mi enfoque técnico en desarrollo web.
